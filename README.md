@@ -1,6 +1,6 @@
 Plot your daily productivity (quotient of 24h) and calculate your median productivity over the recorded timespan, prompting you to hurry if you haven't yet beat it today :)
 
-![Screenshot of the program](https://github.com/heinzelotto/togglplot/screenshot.png)
+![Screenshot of the program](https://github.com/heinzelotto/togglplot/blob/master/screenshot.png)
 
 Takes your Toggl API-key to authenticate, using (a modified/fixed version) of the useful [JToggl](https://github.com/bbaumgartner/jtoggl), which has been packaged.
 
